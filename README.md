@@ -1,3 +1,3 @@
 # py-notebooks
 
-Python Data Practice
+Python Data Manipulation with numpy and matplotlib
