@@ -1,3 +1,3 @@
 # py-notebooks
 
-Python Data Manipulation with numpy and matplotlib
+Python data analysis and manipulation with numpy and matplotlib
